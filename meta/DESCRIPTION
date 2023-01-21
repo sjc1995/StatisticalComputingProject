@@ -1,0 +1,11 @@
+Package: meta
+Type: Package
+Title: Meta-Analysis for multiple data frames
+Version: 1.0
+Date: 2019-05-03
+Author: Jiecheng Song, Allison Emono and Soojin Kim
+Maintainer: Jiecheng Song <song.jiecheng@stonybrook.edu>, Allison Emono <allison.emono@stonybrook.edu>, Soojin Kim <soojin.kim@stonybrook.edu>
+Description: Meta-Analysis for overall significance of a variable across multiple data frames
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2019-05-06 18:34:35 UTC; JIECHENG SONG
